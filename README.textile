@@ -1,0 +1,1 @@
+Get the User Reviews for various products. This is stand alone code for scraping the page. Give url as 1st page of user review of a product.
